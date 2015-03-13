@@ -1,0 +1,1 @@
+Anki is a spaced repetition flashcard program.  This is a plugin which allows users of Anki to practice a method called "incremental reading" which facilitates reading a large number of documents and making flashcards from all of them.
